@@ -1,8 +1,24 @@
-title: SK Monde 
-description: > 
-  COMING SOON
-  <br><br>
-  info.skmonde@gmail.com
-  <br><br>
-  
+title: SK Monde
+email: info.skmonde@gmail.com
+description: >-
+  SK Monde is coming soon!
+baseurl: ""
+url: "http://skmonde.com"
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
+
+github: [metadata]
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
