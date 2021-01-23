@@ -4,10 +4,12 @@ description: >-
   SK Monde is coming soon!
 baseurl: ""
 url: "http://skmonde.com"
+instagram_username: skmonde
+facebook_username: infoskmonde
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 
 github: [metadata]
 # Exclude from processing.

@@ -1,5 +1,5 @@
-## SK Monde
-
+---
+layout: front
 ---
 
 ### COMING SOON
